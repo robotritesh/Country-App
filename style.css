@@ -1,0 +1,13 @@
+.countryDiv{
+    border-radius: 24px;
+    width: 15%;
+    height: 150px;
+    text-align: center;
+    margin-top: 24px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    padding-top: 10px;
+}
+
+#select{
+    width: 100%;
+}
